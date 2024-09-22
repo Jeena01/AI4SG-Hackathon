@@ -25,7 +25,7 @@
 - **Purpose**: ChatGPT wa used to answer questions that seemed to specific for the internet to provide solutions for. 
 
 ### 2.2 Application of AI Tools
-- **When Applied**: ChatGPT was ued throughout the entire development of our project, from brainstorming, developing, and creating the presntation. Amazon Q was used primarily during code writing.
+- **When Applied**: ChatGPT was used throughout the development of our project, from brainstorming and developing to creating the presntation. Amazon Q was used primarily during code alterations.
 - **How Applied**: When we encountered a creative block, needed to find errors in our code, or wanted to reword any sentences 
 - **Rationale**: ChatGPT was used for its user-friendly set up and timely responses. It was eay and efficient and can be used for specific situations. Amazon Q was used becaue it provides in-line suggestsions.
 
