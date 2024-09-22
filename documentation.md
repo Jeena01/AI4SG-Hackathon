@@ -10,7 +10,7 @@
 ### 1.2 Proposed Solution
 - **Solution Overview**: developed a back-end hybrid reccomender system tailored for administrative use that matches clients with employees based on input data such as gender, age, ethnicity, and culture, and can be customized to meet the specific needs of any organization.
 - **Key Features**: Creating and implementing hybrid reccomender system
-- **Expected Impact**: foster a sense of safety and mutual understanding, enhancing communication and trust in client-employee interactions.
+- **Expected Impact**: foster a sense of safety and mutual understanding, enhancing communication and trust in client-employee interactions, applicable in serveral contexts. For example healthcare, social work
 
 
 ### 1.3 Technical Aspects
