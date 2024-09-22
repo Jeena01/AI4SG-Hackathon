@@ -15,21 +15,21 @@
 
 ### 1.3 Technical Aspects
 - **Programming Languages**: Python.
-- **Frameworks and Libraries**: Fast API and SQL lite
+- **Frameworks and Libraries**: Fast API Framework, collections, random, sqlalchemy, numpy
 
 
 ## 2. Documentation of AI Tools Used
 
 ### 2.1 Overview of AI Tools
-- **Tool Name**: ChatGPT, Amazon Cube.
+- **Tool Name**: ChatGPT, Amazon Q.
 - **Purpose**: ChatGPT wa used to answer questions that seemed to specific for the internet to provide solutions for. 
 
 ### 2.2 Application of AI Tools
-- **When Applied**: ChatGPT was ued throughout the entire development of our project, from brainstorming, developing, and creating the presntation. Amazon Cube wa used primarily during development.
-- **How Applied**: When we thinking block for creating an idea, finding errors in our code, or wanting to reword any sentences that we needed help to sound more fluent.
-- **Rationale**: ChatGPT was used for its user-friendly set up and timely responses. It was eay and efficient and can be used for specific situations. Amazon Cube was used becaue it provides in-line suggestsions.
+- **When Applied**: ChatGPT was ued throughout the entire development of our project, from brainstorming, developing, and creating the presntation. Amazon Q was used primarily during code writing.
+- **How Applied**: When we encountered a creative block, needed to find errors in our code, or wanted to reword any sentences 
+- **Rationale**: ChatGPT was used for its user-friendly set up and timely responses. It was eay and efficient and can be used for specific situations. Amazon Q was used becaue it provides in-line suggestsions.
 
 ### 2.3 Total use of AI Tools
 - **Amrita-- %75**: Used ChatGPT to brainstorm ideas by providing the prompt. Asked ChatGPT to explain how to download and install applications such as Node.js and React. Asked ChatGPT to rephrase sentences I made for the presentation for the language to sound more fluent and cohesive. Gave ChatGPT any error outputs I would get while coding with React and asked it why I might be receiving these messages (did not end up using my react work on final outcome). 
 - **Yosamin %70**:Used ChatGPT to brainstorm ideas by providing the prompt and providing personal expierences I had as a minority group in Canada in hopes to help ChatGPT think of some solutions. Asked ChatGPT to write some starter code for me to build off of. 
-- **Jeena %90**: Used ChatGPT for boiler plate code and used amazon cube for generating dummy data and inline changes and documentation.
+- **Jeena %90**: Used ChatGPT for boiler plate code and used amazon Q for generating dummy data and inline changes and documentation.
