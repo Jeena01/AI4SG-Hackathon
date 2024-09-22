@@ -3,34 +3,33 @@
 ## 1. Project Overview
 
 ### 1.1 Project Statement
-- **Problem Statement**: Describe the primary problem or challenge that the project aims to address.
-- **Objectives**: List the key objectives of the project.
-- **Target Audience**: Define who the intended beneficiaries or users are.
+- **Problem Statement**: Immigrant and refugee women in Canada face heightened risks of domestic violence due to isolation, cultural barriers, and financial struggles. Current support systems often lack cultural competence, leaving these cases underreported and inadequately addressed.
+- **Objectives**: connect clients with professionals who have relevant cultural expertise to provide effective support
+- **Target Audience**: Immigrant and refugee women in Canada
 
 ### 1.2 Proposed Solution
-- **Solution Overview**: Provide a summary of the proposed solution.
-- **Key Features**: Highlight the main features of the solution.
-- **Expected Impact**: Describe the anticipated outcomes and impacts of the solution.
+- **Solution Overview**: developed a back-end hybrid reccomender system tailored for administrative use that matches clients with employees based on input data such as gender, age, ethnicity, and culture, and can be customized to meet the specific needs of any organization.
+- **Key Features**: Creating and implementing hybrid reccomender system
+- **Expected Impact**: foster a sense of safety and mutual understanding, enhancing communication and trust in client-employee interactions.
+
 
 ### 1.3 Technical Aspects
-- **Programming Languages**: List all programming languages used in the project, detailing their roles and why they were chosen (e.g., Python for data analysis, JavaScript for front-end development).
-- **Frameworks and Libraries**: Specify the frameworks and libraries employed (e.g., TensorFlow, React, Django).
+- **Programming Languages**: Python.
+- **Frameworks and Libraries**: Fast API and SQL lite
 
 
 ## 2. Documentation of AI Tools Used
 
 ### 2.1 Overview of AI Tools
-- **Tool Name**: List each AI tool used (e.g., ChatGPT, CodeWhisperer).
-- **Purpose**: Describe the purpose of each tool in the context of the project.
+- **Tool Name**: ChatGPT, Amazon Cube.
+- **Purpose**: ChatGPT wa used to answer questions that seemed to specific for the internet to provide solutions for. 
 
 ### 2.2 Application of AI Tools
-- **When Applied**: Specify when each tool was applied during the project phases (e.g., brainstorming, developing).
-- **How Applied**: Detail the methods or processes through which the AI tool was utilized.
-- **Rationale**: Explain why each tool was selected for its specific application.
+- **When Applied**: ChatGPT was ued throughout the entire development of our project, from brainstorming, developing, and creating the presntation. Amazon Cube wa used primarily during development.
+- **How Applied**: When we thinking block for creating an idea, finding errors in our code, or wanting to reword any sentences that we needed help to sound more fluent.
+- **Rationale**: ChatGPT was used for its user-friendly set up and timely responses. It was eay and efficient and can be used for specific situations. Amazon Cube was used becaue it provides in-line suggestsions.
 
 ### 2.3 Total use of AI Tools
-- **Participan 1-- %usage**: Detail the percentage of AI tool usage by the participant across different project phases, such as brainstorming, development, documentation, and testing. Specify which tools were used most frequently.
-- **Participan 2-- %usage**: Detail the percentage of AI tool usage by the participant across different project phases, such as brainstorming, development, documentation, and testing. Specify which tools were used most frequently.
-- **Participan 3-- %usage**: Detail the percentage of AI tool usage by the participant across different project phases, such as brainstorming, development, documentation, and testing. Specify which tools were used most frequently.
-- **Participan 4-- %usage**: Detail the percentage of AI tool usage by the participant across different project phases, such as brainstorming, development, documentation, and testing. Specify which tools were used most frequently.
-- **Participan 5-- %usage**: Detail the percentage of AI tool usage by the participant across different project phases, such as brainstorming, development, documentation, and testing. Specify which tools were used most frequently.
+- **Amrita-- %75**: Used ChatGPT to brainstorm ideas by providing the prompt. Asked ChatGPT to explain how to download and install applications such as Node.js and React. Asked ChatGPT to rephrase sentences I made for the presentation for the language to sound more fluent and cohesive. Gave ChatGPT any error outputs I would get while coding with React and asked it why I might be receiving these messages (did not end up using my react work on final outcome). 
+- **Yosamin %70**:Used ChatGPT to brainstorm ideas by providing the prompt and providing personal expierences I had as a minority group in Canada in hopes to help ChatGPT think of some solutions. Asked ChatGPT to write some starter code for me to build off of. 
+- **Jeena %90**: Used ChatGPT for boiler plate code and used amazon cube for generating dummy data and inline changes and documentation.
