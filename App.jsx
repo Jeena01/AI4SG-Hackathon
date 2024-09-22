@@ -8,17 +8,25 @@ import {
 
 import Login from './Components/Login/Login';
 import Buttons from "./Buttons";
+import Layout from "./Layout";
 
 function App() {
   const router= createBrowserRouter([
     {
-      path: "/adminlogin",
-      element: <Login/>
-    },
-    {
-      path: "/home",
-      element: <Buttons/>
+      element: <Layout/>,
+      children: [
+        {
+          path: "/adminlogin",
+          element: <Login/>
+        },
+        {
+          path: "/home",
+          element: <Buttons/>
+        }
+        
+      ]
     }
+    
 
 
   ])
