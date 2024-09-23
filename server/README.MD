@@ -70,7 +70,7 @@ uvicorn main:app --reload
 
   Your API will be available at http://127.0.0.1:8000
 
-  
+
 ## Endpoints
 
 ### Root Endpoint
@@ -95,15 +95,22 @@ uvicorn main:app --reload
     {
       "name": "Provider Name",
       "specialization": "Specialization",
-      "location": "Location"
+      "location": "Location",
+      "gender": "Gender",
+      "language": "Language",
+      "cultural_background": "Cultural Background"
     }
     ```
   - **Response:**
     ```json
     {
+      "id": 1,
       "name": "Provider Name",
       "specialization": "Specialization",
-      "location": "Location"
+      "location": "Location",
+      "gender": "Gender",
+      "language": "Language",
+      "cultural_background": "Cultural Background"
     }
     ```
 
@@ -129,15 +136,26 @@ uvicorn main:app --reload
     {
       "name": "Client Name",
       "need": "Client Need",
-      "location": "Client Location"
+      "location": "Client Location",
+      "gender": "Gender",
+      "language": "Language",
+      "cultural_background": "Cultural Background",
+      "preferred_gender": "Preferred Gender",
+      "preferred_cultural_background": "Preferred Cultural Background"
     }
     ```
   - **Response:**
     ```json
     {
+      "id": 1,
       "name": "Client Name",
       "need": "Client Need",
-      "location": "Client Location"
+      "location": "Client Location",
+      "gender": "Gender",
+      "language": "Language",
+      "cultural_background": "Cultural Background",
+      "preferred_gender": "Preferred Gender",
+      "preferred_cultural_background": "Preferred Cultural Background"
     }
     ```
 
@@ -146,7 +164,7 @@ uvicorn main:app --reload
 #### Add Client-Provider Mapping
 
 - **POST** `/client-provider-mapping/`
-  - **Description:** Map a client to a provider.
+  - **Description:** Map a client to a provider with an optional rating.
   - **Request Body:**
     ```json
     {
@@ -158,6 +176,7 @@ uvicorn main:app --reload
   - **Response:**
     ```json
     {
+      "id": 1,
       "client_id": 1,
       "provider_id": 1,
       "rating": 5
@@ -205,6 +224,3 @@ uvicorn main:app --reload
 
 - Ensure the database is set up correctly before making requests.
 - Use tools like Postman or cURL for testing the API endpoints.
-
-
-  
